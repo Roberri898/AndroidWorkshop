@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rock_Paper_Scissors</string>
+
+    <string-array name="Weapons">
+        <item>Rock</item>
+        <item>Paper</item>
+        <item>Scissors</item>
+    </string-array>
+</resources>
+
